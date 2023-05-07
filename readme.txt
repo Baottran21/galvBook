@@ -8,7 +8,7 @@ Also, if there's anything you want to add to this readme, be my guest.
 I want this project to help us get a solid understanding on how to use git and work on collaborative projects, 
 so if you have something you really want to show off, throw that into the projects folder(.\projects).
 Go ahead and sign in below, and let's all get smart together.
-________________________________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________________________
 
 
 -Dylan 'Gordy' Gordon.
