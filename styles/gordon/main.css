@@ -40,7 +40,7 @@ body {
 
 
 div.header {
-    box-sizing:content-box;
+    box-sizing: content-box;
     height: 20vh;
     border: 10px outset rgb(0, 140, 255);
     background-color: rgba(14, 38, 35, 0.922);
@@ -74,7 +74,6 @@ div.studentDiv {
 }
 
 div.projectDiv {
-    position: ;
     margin: auto;
     border: 5px outset rgb(0, 140, 255);
     background-color: rgba(53, 190, 174, 0.922);
@@ -120,7 +119,7 @@ hr {
 
 #glow {
     margin-left: 1vw;
-    font-size:14vh;
+    font-size: 14vh;
     color: #fff;
     text-shadow:
         0 0 7px #fff,
